@@ -49,3 +49,7 @@ The LCD is connected as follows:
  * LCD14 -> Digital pin 9
  * LCD15 -> 5v
  * LCD16 -> 47&#8486; resistor -> 47&#8486; resistor -> GRD
+
+## Final Result
+
+![Today's Weather](http://i.imgur.com/P8aqZpB.jpg)
